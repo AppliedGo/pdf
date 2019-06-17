@@ -25,9 +25,9 @@ author = "Christoph Berger"
 email = "chris@appliedgo.net"
 date = "2018-01-16"
 draft = "false"
-domains = ["Automation"]
+categories = ["Automation"]
 tags = ["pdf", "office"]
-categories = ["Tutorial"]
+articletypes = ["Tutorial"]
 +++
 
 Pure data is for computers and nerds like you and me. Anyone else likes nicely formatted reports. Go and a good PDF package can help.
